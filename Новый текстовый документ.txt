@@ -37,3 +37,12 @@ npm run dev
 
 https://cloud.mail.ru/public/YPbM/mmBivC3MP
 https://cloud.mail.ru/public/GBVu/snupUDYab
+
+
+
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/FortyOne4124/files.git
+git push -u origin main --force
